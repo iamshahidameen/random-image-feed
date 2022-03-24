@@ -1,0 +1,1 @@
+const UNSPLASH_URL = 'https://source.unsplash.com/random/'
